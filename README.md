@@ -12,15 +12,11 @@
 <a href="https://www.linkedin.com/in/aaronsgomez/" target="_blank">
     <img src="./assets/linkedin.png" height="45" alt="LinkedIn" />
   </a>
-  &nbsp;
+
   <a href="mailto:aarongomez.dev@gmail.com">
     <img src="./assets/gmail.png" height="45" alt="Gmail" />
   </a>
-  &nbsp;
-  <a href="https://github.com/AaronSGomez" target="_blank">
-    <img src="./assets/githubico.png" height="45" alt="GitHub" />
-  </a>
-  &nbsp;
+
   <a href="https://asga.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45" alt="Portfolio Web" />
   </a>
