@@ -9,17 +9,23 @@
     Combino una base sólida en infraestructuras críticas con nuevas competencias en desarrollo de software.
   </p>
 
-  <a href="https://www.linkedin.com/in/aaronsgomez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/aaronsgomez/" target="_blank">
+    <img src="./assets/linkedin.png" height="45" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:aarongomez.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="./assets/gmail.png" height="45" alt="Gmail" />
   </a>
+  &nbsp;
+  <a href="https://github.com/AaronSGomez" target="_blank">
+    <img src="./assets/githubico.png" height="45" alt="GitHub" />
+  </a>
+  &nbsp;
   <a href="https://asga.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Web" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45" alt="Portfolio Web" />
   </a>
   <a href="./aaron_gomez_cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Descargar_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV" />
+    <img src="https://img.shields.io/badge/CV_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="45" alt="Descargar CV" />
   </a>
 </div>
 
@@ -37,26 +43,30 @@
   <h3>🚀 Stack Tecnológico</h3>
   <p>Herramientas y lenguajes que utilizo en mi día a día</p>
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <br>
+  <img src="./assets/java.png" height="60" alt="Java" />
+  <img src="./assets/dart.png" height="60" alt="Dart" />
+  <img src="./assets/python.png" height="60" alt="Python" />
+  <img src="./assets/kotlin.png" height="60" alt="Kotlin" />
+  <img src="./assets/js.png" height="60" alt="JavaScript" />
+  <br><br>
   
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flame_Engine-F1502F?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <br>
+  <img src="./assets/flutter.png" height="60" alt="Flutter" />
+  <img src="./assets/reactnative.png" height="60" alt="React Native" />
+  <img src="./assets/fastapi.png" height="60" alt="FastAPI" />
+  <img src="./assets/node.png" height="60" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Flame_Engine-F1502F?style=for-the-badge&logo=firebase&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" height="45" />
+  <br><br>
 
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <br>
+  <img src="./assets/git.png" height="60" alt="Git" />
+  <img src="./assets/github.png" height="60" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="45" />
+  <br><br>
 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="./assets/mongo.png" height="60" alt="MongoDB" />
+  <img src="./assets/sql.png" height="60" alt="SQL" />
 </div>
 
 ---
