@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/Descargar_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV" />
   </a>
 </div>
+
 ---
 
 ### 🎓 Formación Académica
