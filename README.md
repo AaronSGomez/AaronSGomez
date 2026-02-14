@@ -7,7 +7,6 @@
   <p>
     Técnico híbrido con <b>+15 años de experiencia</b> en soporte y administración de sistemas, evolucionando hacia el <b>Desarrollo Seguro (DevSecOps)</b>.<br>
     Combino una base sólida en infraestructuras críticas con nuevas competencias en desarrollo de software.
-
   </p>
 
   <a href="https://www.linkedin.com/in/aaronsgomez/" target="_blank">
@@ -16,22 +15,20 @@
   <a href="mailto:aarongomez.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://asga.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Web" />
+  </a>
   <a href="./aaron_gomez_cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Descargar_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV" />
   </a>
 </div>
 
-# Hola, soy Aarón Gómez Abella 👋
-
-### 🛡️ DevSecOps | Desarrollo & Ciberseguridad
-**Ubicación:** Oviedo, Asturias 🇪🇸
-
-
 ---
+### 🎓 Formación Académica
 
-### 🚀 Stack Tecnológico y Herramientas
-
-Actualmente cursando el **Máster en Ciberseguridad** y **FP DAM** en ThePower Education, centrando mi aprendizaje en la generación de código limpio y seguro.
+* **Máster en Ciberseguridad** | ThePower Education *(Actualidad)*
+* **FP Desarrollo de Aplicaciones Multiplataforma (DAM)** | ThePower Education *(Actualidad)*
+* **FP Superior en Administración de Sistemas Informáticos en Red (ASIR)** | Colegio Sagrada Familia El Pilar
 
 <div align="center">
   <h3>🚀 Stack Tecnológico</h3>
@@ -77,8 +74,9 @@ Actualmente aplicando conocimientos en productos reales:
 
 ---
 
-### 🖥️ Mi Laboratorio (Setup)
-Hardware dedicado para desarrollo, compilación y self-hosting:
+### 🖥️ Mi Laboratorio (Setup & Infraestructura)
+
+Hardware dedicado para desarrollo, compilación y **Self-Hosting**:
 
 | Componente | Workstation (MiniPC) | Portátil (HP) | Home Server (RPi 5) |
 | :--- | :--- | :--- | :--- |
@@ -92,16 +90,3 @@ Administración de servidor propio para despliegue seguro y persistencia de dato
 * **🔒 Seguridad & Redes:** Acceso remoto garantizado mediante redireccionamiento **DDNS seguro**, certificado **SSL autorenovable** y gestión de tráfico con **Firewall** configurado.
 * **🐳 Despliegue Docker:** Entorno containerizado para la ejecución de **Odoo** y aplicaciones propias.
 * **💾 Backend:** Alojamiento centralizado de **Bases de Datos** para dar servicio a mis aplicaciones móviles y de escritorio.
----
-
-### 📫 Contacto y CV
-
-<a href="https://www.linkedin.com/in/aaronsgomez/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:aarongomez.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="./aaron_gomez_cv.pdf" target="_blank">
-<img src="https://img.shields.io/badge/Descargar_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV" />
-</a>
