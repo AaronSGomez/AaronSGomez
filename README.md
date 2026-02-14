@@ -8,7 +8,7 @@
 </div>
   <p>
     Oviedo, Asturias 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Asturias.svg" width="20" style="vertical-align:middle" alt="Asturias" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Asturias.svg" width="20" style="vertical-align:middle" alt="Asturias" /><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" style="vertical-align:middle;" alt="España" />
   </p>
 
   <p>
