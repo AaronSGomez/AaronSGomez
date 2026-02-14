@@ -54,12 +54,13 @@
   <img src="./assets/reactnative.png" height="60" alt="React Native" />
   <img src="./assets/fastapi.png" height="60" alt="FastAPI" />
   <img src="./assets/node.png" height="60" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Flame_Engine-F1502F?style=for-the-badge&logo=firebase&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" height="45" />
+   <img src="./assets/git.png" height="60" alt="Git" />
+  <img src="./assets/github.png" height="60" alt="GitHub" />
+ 
   <br><br>
 
-  <img src="./assets/git.png" height="60" alt="Git" />
-  <img src="./assets/github.png" height="60" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Flame_Engine-F1502F?style=for-the-badge&logo=firebase&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" height="45" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="45" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="45" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="45" />
