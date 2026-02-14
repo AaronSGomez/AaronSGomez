@@ -9,11 +9,12 @@
     Combino una base sólida en infraestructuras críticas con nuevas competencias en desarrollo de software.
   </p>
 
-<img src="./assets/linkedin.png" height="45" alt="LinkedIn" />
-<a href="https://www.linkedin.com/in/aaronsgomez/" target="_blank"> Linkedin</a>
-  <img src="./assets/gmail.png" height="45" alt="Gmail" />
-  <a href="mailto:aarongomez.dev@gmail.com">mail</a>
-
+<a href="https://www.linkedin.com/in/aaronsgomez/" target="_blank">
+    <img src="./assets/linkedin.png" height="45" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aarongomez.dev@gmail.com" style="decoration: none">
+    <img src="./assets/gmail.png" height="45" alt="Gmail" />
+  </a>
   <a href="https://asga.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45" alt="Portfolio Web" />
   </a>
