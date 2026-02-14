@@ -5,8 +5,9 @@
   <p>Oviedo, Asturias 🇪🇸</p>
 
   <p>
-    Ingeniero híbrido con <b>+15 años de experiencia</b> en soporte técnico y administración de sistemas, evolucionando hacia el <b>Desarrollo Seguro (DevSecOps)</b>.<br>
-    Combino una base sólida en infraestructuras críticas (banca, seguridad) con nuevas competencias en desarrollo de software.
+    Técnico híbrido con <b>+15 años de experiencia</b> en soporte y administración de sistemas, evolucionando hacia el <b>Desarrollo Seguro (DevSecOps)</b>.<br>
+    Combino una base sólida en infraestructuras críticas con nuevas competencias en desarrollo de software.
+
   </p>
 
   <a href="https://www.linkedin.com/in/aaronsgomez/" target="_blank">
@@ -25,7 +26,6 @@
 ### 🛡️ DevSecOps | Desarrollo & Ciberseguridad
 **Ubicación:** Oviedo, Asturias 🇪🇸
 
-Técnico híbrido con **+15 años de experiencia** en soporte y administración de sistemas, evolucionando hacia el **Desarrollo Seguro (DevSecOps)**. Combino una base sólida en infraestructuras críticas con nuevas competencias en desarrollo de software.
 
 ---
 
