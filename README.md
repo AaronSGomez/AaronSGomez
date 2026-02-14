@@ -23,13 +23,15 @@
   </a>
 </div>
 
----
+
 
 ### 🎓 Formación Académica
 
 * **Máster en Ciberseguridad** | ThePower Education *(Actualidad)*
 * **FP Desarrollo de Aplicaciones Multiplataforma (DAM)** | ThePower Education *(Actualidad)*
 * **FP Superior en Administración de Sistemas Informáticos en Red (ASIR)** | Colegio Sagrada Familia El Pilar
+
+---
 
 <div align="center">
   <h3>🚀 Stack Tecnológico</h3>
@@ -59,13 +61,12 @@
 
 ---
 
-
----
 ### 🔭 Proyectos en Curso
 Actualmente aplicando conocimientos en productos reales:
 
 * 📱 **Desarrollo Flutter:** Creación de un **Software TPV** completo y un **videojuego de plataformas** utilizando el motor **Flame**.
 * 🎮 **Game Dev:** Colaboración activa en el desarrollo de un videojuego utilizando **Godot Engine**.
+
 ---
 
 ### 📜 Certificaciones Destacadas
