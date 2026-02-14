@@ -22,8 +22,8 @@
     <img src="https://img.shields.io/badge/Descargar_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV" />
   </a>
 </div>
-
 ---
+
 ### 🎓 Formación Académica
 
 * **Máster en Ciberseguridad** | ThePower Education *(Actualidad)*
@@ -55,14 +55,13 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
----
 
+---
 ### 🔭 Proyectos en Curso
 Actualmente aplicando conocimientos en productos reales:
 
 * 📱 **Desarrollo Flutter:** Creación de un **Software TPV** completo y un **videojuego de plataformas** utilizando el motor **Flame**.
 * 🎮 **Game Dev:** Colaboración activa en el desarrollo de un videojuego utilizando **Godot Engine**.
-
 ---
 
 ### 📜 Certificaciones Destacadas
