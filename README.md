@@ -6,7 +6,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Enfoque+DevSecOps+%7C+Java+%26+Dart;Especializándome+en+Ciberseguridad;Desarrollador+Multiplataforma;Amante+del+Open+Source" alt="Typing SVG" />
   </a>
 </div>
-  <p>Oviedo, Asturias 🇪🇸</p>
+  <p>
+    Oviedo, Asturias 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Asturias.svg" width="20" style="vertical-align:middle" alt="Asturias" />
+  </p>
 
   <p>
     Técnico híbrido con <b>+15 años de experiencia</b> en soporte y administración de sistemas, evolucionando hacia el <b>Desarrollo Seguro (DevSecOps)</b>.<br>
