@@ -58,6 +58,9 @@
 </div>
 
 ---
+
+
+---
 ### 🔭 Proyectos en Curso
 Actualmente aplicando conocimientos en productos reales:
 
