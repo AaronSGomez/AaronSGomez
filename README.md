@@ -20,6 +20,14 @@ Actualmente cursando el **Máster en Ciberseguridad** y **FP DAM** en ThePower E
 
 ---
 
+### 🔭 Proyectos en Curso
+Actualmente aplicando conocimientos en productos reales:
+
+* 📱 **Desarrollo Flutter:** Creación de un **Software TPV** completo y un **videojuego de plataformas** utilizando el motor **Flame**.
+* 🎮 **Game Dev:** Colaboración activa en el desarrollo de un videojuego utilizando **Godot Engine**.
+
+---
+
 ### 📜 Certificaciones Destacadas
 
 * **Cisco:** CCST Cybersecurity, Cyber Threat Management, Network Defense & Endpoint Security.
