@@ -3,7 +3,7 @@
   <h1>Hola, soy Aarón Gómez Abella 👋</h1>
   <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Enfoque+DevSecOps+%7C+Java+%26+Dart;Especializándome+en+Ciberseguridad;Desarrollador+Multiplataforma;Amante+del+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Enfoque+DevSecOps+%7C+Java+%26+Dart;Formándome+en+Ciberseguridad;Desarrollador+Multiplataforma;Amante+del+Open+Source" alt="Typing SVG" />
   </a>
 </div>
   <p>
