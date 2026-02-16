@@ -18,8 +18,8 @@
 
 <a href="https://www.linkedin.com/in/aaronsgomez/" target="_blank"><img src="./assets/linkedin.png" height="45" alt="LinkedIn" /></a>
   <a href="mailto:aarongomez.dev@gmail.com"><img src="./assets/gmail.png" height="45" alt="Gmail" /></a>
-  <a href="https://asga.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45" alt="Portfolio Web" /></a>
-  <a href="./aaron_gomez_cv.pdf" target="_blank"><img src="https://img.shields.io/badge/CV_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="45" alt="Descargar CV" /></a>
+  <a href="https://asga.vercel.app" target="_blank"><img src="./assets/porfolio.png" height="45" alt="Portfolio Web" /></a>
+  <a href="./aaron_gomez_cv.pdf" target="_blank"><img src="./assets/cv.png" height="45" alt="Descargar CV" /></a>
 </div>
 
 
