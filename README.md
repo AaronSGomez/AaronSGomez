@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hola, soy Aarón Gómez Abella 👋</h1>
+  <h1>Hola, soy Aarón Gómez</h1>
   <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Enfoque+DevSecOps+%7C+Java+%26+Dart;Formándome+en+Ciberseguridad;Desarrollador+Multiplataforma;Amante+del+Open+Source" alt="Typing SVG" />
@@ -10,6 +10,9 @@
     Oviedo, Asturias 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Asturias.svg" width="20" style="vertical-align:middle" alt="Asturias" /><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" style="vertical-align:middle;" alt="España" />
   </p>
+  <div align="center">
+    <img src="./assets/aaron.gif">
+  </div>
 
   <p>
     Técnico híbrido con <b>+15 años de experiencia</b> en soporte y administración de sistemas, evolucionando hacia el <b>Desarrollo Seguro (DevSecOps)</b>.<br>
