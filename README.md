@@ -49,7 +49,6 @@
   <img src="./assets/node.png" height="60" alt="NodeJS" />
    <img src="./assets/git.png" height="60" alt="Git" />
   <img src="./assets/github.png" height="60" alt="GitHub" />
- 
   <br><br>
 
   <img src="./assets/flame.png" height="60" alt="Flame" />
