@@ -52,15 +52,17 @@
  
   <br><br>
 
-  <img src="https://img.shields.io/badge/Flame_Engine-F1502F?style=for-the-badge&logo=firebase&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="45" />
-  <br><br>
-
+  <img src="./assets/flame.png" height="60" alt="Flame" />
+  <img src="./assets/godot.png" height="60" alt="Godot"/>
   <img src="./assets/mongo.png" height="60" alt="MongoDB" />
   <img src="./assets/sql.png" height="60" alt="SQL" />
+  <img src="./assets/docker.png" height="60" alt="Docker"/>
+  <br><br>
+
+  <img src="./assets/aws.png" height="60" alt="AWS"/>
+  <img src="./assets/azure.png" height="60" alt="Azure"/>
+  <img src="./assets/linux.png" height="60" alt="Linux"/>
+  <br><br>
 </div>
 
 ---
