@@ -10,15 +10,16 @@
     Oviedo, Asturias 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Asturias.svg" width="20" style="vertical-align:middle" alt="Asturias" /><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" style="vertical-align:middle;" alt="España" />
   </p>
-  <div align="center">
-    <img src="./assets/aaron.gif">
-  </div>
-
   <p>
     Técnico híbrido con <b>+15 años de experiencia</b> en soporte y administración de sistemas, evolucionando hacia el <b>Desarrollo Seguro (DevSecOps)</b>.<br>
     Combino una base sólida en infraestructuras críticas con nuevas competencias en desarrollo de software.
   </p>
+<br>
+  <div align="center">
+    <img src="./assets/aaron.gif">
+  </div>
 
+  
 <a href="https://www.linkedin.com/in/aaronsgomez/" target="_blank"><img src="./assets/linkedin.png" height="45" alt="LinkedIn" /></a>
   <a href="mailto:aarongomez.dev@gmail.com"><img src="./assets/gmail.png" height="45" alt="Gmail" /></a>
   <a href="https://asga.vercel.app" target="_blank"><img src="./assets/porfolio.png" height="45" alt="Portfolio Web" /></a>
