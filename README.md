@@ -31,8 +31,8 @@
 ### 🎓 Formación Académica
 
 * **Máster en Ciberseguridad** | ThePower Education *(Actualidad)*
-* **FP Desarrollo de Aplicaciones Multiplataforma (DAM)** | ThePower Education *(Actualidad)*
-* **FP Superior en Administración de Sistemas Informáticos en Red (ASIR)** | Colegio Sagrada Familia El Pilar
+* **FP Desarrollo de Aplicaciones Multiplataforma (DAM)** | ThePower Education - 9.5
+* **FP Superior en Administración de Sistemas Informáticos en Red (ASIR)** | Colegio Sagrada Familia El Pilar - 9.7
 
 ---
 
