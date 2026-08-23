@@ -81,8 +81,9 @@ Actualmente aplicando conocimientos en productos reales:
 ### 📜 Certificaciones Destacadas
 
 * **Cisco:** CCST Cybersecurity, Cyber Threat Management, Network Defense & Endpoint Security.
-* **Azure** AI-900: Microsoft Certified: Azure AI Fundamentals
-* **Azure** AZ-900: Microsoft Certified: Azure Fundamentals
+* **Azure** AI-900: Microsoft Certified: Azure AI Fundamentals.
+* **Azure** SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals.
+* **Azure** AZ-900: Microsoft Certified: Azure Fundamentals.
 * **Python Essentials 1 & 2** (Cisco Networking Academy).
 * **Microsoft Azure:** AZ-104, AZ-400 (DevOps Engineer Expert).
 
