@@ -73,8 +73,10 @@
 ### 🔭 Proyectos en Curso
 Actualmente aplicando conocimientos en productos reales:
 
-* 📱 **Desarrollo Flutter:** Creación de un **Software TPV** completo y un **videojuego de plataformas** utilizando el motor **Flame**.
-* 🎮 **Game Dev:** Colaboración activa en el desarrollo de un videojuego utilizando **Godot Engine**.
+* 🛡️ **Cybersecurity Services:** Desarrollo de una plataforma integral orientada a la gestión y provisión de servicios de ciberseguridad. A++
+* ☁️ **Azure Test Prep:** Aplicación multiplataforma para la preparación y simulación de exámenes de certificación de Azure, desarrollada con **Flutter** y **Supabase**.
+* 🏥 **Gestión de Turnos Hospitalarios:** Aplicación web para la planificación y control de turnos de enfermería utilizando el ecosistema **React / Next.js / Vite**.
+* 💼 **E-Commerce Profesional:** Tienda online orientada a clientes B2B con catálogo avanzado e integración de servicios profesionales de valor añadido.
 
 ---
 
