@@ -80,7 +80,7 @@
 * 📚 **[Biblioteca Técnica Homelab](https://github.com/AaronSGomez/biblioteca-tecnica):** Hub de documentación técnica para administración de servidores Linux, hardening y despliegue de servicios en producción ([Ver Online](https://aaronsgomez.github.io/biblioteca-tecnica/)).
 * 💳 **[NovaPay POS Ecosystem](https://github.com/AaronSGomez/novapay-backend-public):** Terminal Punto de Venta con arquitectura modular; frontend multiplataforma en Flutter y backend transaccional en Spring Boot ([Ver Frontend](https://github.com/AaronSGomez/TFG_NovaPay)).
 * 🚀 **[FireApp ERP (Odoo 18)](https://github.com/AaronSGomez/OdooGestionManual):** Módulo empresarial en Python para empresas de desarrollo con control de bolsas de horas y facturación automática ([Manual Interactivo](https://odoo-gestion-manual.vercel.app/)).
-* 💍 **[InstaBodas Platform](https://github.com/AaronSGomez/Instabodas.es):** Caso de estudio de plataforma SaaS orientada a eventos con Next.js, Supabase y almacenamiento Cloudflare R2 ([Web en Producción](https://instabodas.es)).
+* 💛 **[InstaBodas Platform](https://github.com/AaronSGomez/Instabodas.es):** Caso de estudio de plataforma SaaS orientada a eventos con Next.js, Supabase y almacenamiento Cloudflare R2 ([Web en Producción](https://instabodas.es)).
 * 🎓 **[TFG / TFM Ciberseguridad](https://github.com/AaronSGomez/tfg-masterciber):** Proyecto de fin de máster centrado en laboratorios de seguridad, monitorización SIEM y análisis defensivo.
   
 ---
